@@ -1,0 +1,25 @@
+{
+  "title": "Infinite Audio Archive",
+  "description": "A curated collection of freely licensed audio content",
+  "totalTracks": 0,
+  "licenses": [
+    {
+      "id": "cc0",
+      "name": "CC0 Public Domain",
+      "description": "No rights reserved - you can use this work for any purpose without restriction",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "cc-by",
+      "name": "CC BY 4.0",
+      "description": "You can share and adapt, but must give appropriate credit",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "cc-by-sa",
+      "name": "CC BY-SA 4.0",
+      "description": "You can share and adapt with credit, derivatives must use same license",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}
